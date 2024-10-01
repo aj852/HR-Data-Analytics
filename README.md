@@ -11,7 +11,7 @@ Performed thorough data cleaning, including handling missing values and inconsis
 - Developed insightful dashboards visualizing key HR metrics.
 - Provided actionable recommendations to HR professionals for informed decision-making and strategic workforce planning.
 
-PowerBI File(https://app.powerbi.com/links/fB7VqsOU69?ctid=fcf88a03-5fad-4fee-a29b-004f34d4e9d8&pbi_source=linkShare)
+See Full Dashboard Here [PowerBI File](https://app.powerbi.com/links/fB7VqsOU69?ctid=fcf88a03-5fad-4fee-a29b-004f34d4e9d8&pbi_source=linkShare)
 
 
 

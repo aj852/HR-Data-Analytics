@@ -6,7 +6,19 @@ Utilized SQL Server 2022 to conduct comprehensive data analysis on a 22,000-reco
 Performed thorough data cleaning, including handling missing values and inconsistencies, to ensure data quality and accuracy.
 - Data loading & inspection,data cleaning
 - including handling missing values and inconsistencies, to ensure data quality and accuracy.
+# Exploratory Data Analysis
+## Questions:
 
+- Total Number of employees in the company?
+- Average Salary of the Employees?
+- What is the median age of employment in the company?
+- What is the Employee Distribution by Company?
+- What is the gender breakdown in the company?
+- What is the age distribution vs Gender in the company?
+- Employee Distribution over time Spanning for 20 years?
+- Employee Distribution by first character by of the Name?
+- What is the distribution of employees across different states?
+- How many employees work remotely vs Location in the company?
 ## Data Visualization:
 - Developed insightful dashboards visualizing key HR metrics.
 - Provided actionable recommendations to HR professionals for informed decision-making and strategic workforce planning.
@@ -14,5 +26,6 @@ Performed thorough data cleaning, including handling missing values and inconsis
 See Full Dashboard Here [PowerBI File](https://app.powerbi.com/links/fB7VqsOU69?ctid=fcf88a03-5fad-4fee-a29b-004f34d4e9d8&pbi_source=linkShare)
 ![HR_Data_Analysis](HR_Analytics_1.png)
 ![HR_Data_Analysis](HR_Analytics_2.png)
+
 
 

@@ -12,7 +12,7 @@ Performed thorough data cleaning, including handling missing values and inconsis
 - Provided actionable recommendations to HR professionals for informed decision-making and strategic workforce planning.
 
 See Full Dashboard Here [PowerBI File](https://app.powerbi.com/links/fB7VqsOU69?ctid=fcf88a03-5fad-4fee-a29b-004f34d4e9d8&pbi_source=linkShare)
-
+![HR_Data_Analysis](HR_Analytics_1.png)
 
 
 
